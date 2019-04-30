@@ -1,0 +1,14 @@
+{
+  "name": "daftacademy_fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fib.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Martyna Masłowska",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
